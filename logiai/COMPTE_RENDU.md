@@ -1,6 +1,7 @@
 # Compte rendu : TP API LogiAI
 
-**Noms :** MOUTCHOU Ihssane 
+**Noms :** MOUTCHOU Ihssane & Aymen ICHQARRANE
+
 **Groupe :** 5IADATA G3
 
 ## 1. Environnement et premiers tests
