@@ -1,6 +1,7 @@
 # Compte rendu : TP API LogiAI
 
-**Noms :** ............................  **Groupe :** ........
+**Noms :** MOUTCHOU Ihssane 
+**Groupe :** 5IADATA G3
 
 ## 1. Environnement et premiers tests
 - Sortie de `python -m pytest` au départ (après `python -m logiai.train`, avant d'écrire `schemas.py` et `predict()`) :
